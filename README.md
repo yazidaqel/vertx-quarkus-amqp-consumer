@@ -1,0 +1,1 @@
+**Quarkus & Eclipse Vert.x AMQP sample application.**
